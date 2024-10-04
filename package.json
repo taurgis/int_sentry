@@ -46,7 +46,7 @@
     "base": "../storefront-reference-architecture/cartridges/app_storefront_base/"
   },
   "dependencies": {
-    "@sentry/browser": "7.16.0",
+    "@sentry/browser": "7.119.1",
     "@sentry/tracing": "7.16.0"
   }
 }
